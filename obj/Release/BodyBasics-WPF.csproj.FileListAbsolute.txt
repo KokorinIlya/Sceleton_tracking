@@ -1,0 +1,15 @@
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\BodyBasics-WPF\bin\AnyCPU\Release\BodyBasics-WPF.exe.config
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\BodyBasics-WPF\bin\AnyCPU\Release\BodyBasics-WPF.exe
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\BodyBasics-WPF\bin\AnyCPU\Release\BodyBasics-WPF.pdb
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\BodyBasics-WPF\bin\AnyCPU\Release\Microsoft.Kinect.dll
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\BodyBasics-WPF\bin\AnyCPU\Release\Microsoft.Kinect.xml
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\BodyBasics-WPF\obj\Release\MainWindow.baml
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\BodyBasics-WPF\obj\Release\MainWindow.g.cs
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\BodyBasics-WPF\obj\Release\App.g.cs
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\BodyBasics-WPF\obj\Release\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\BodyBasics-WPF\obj\Release\BodyBasics-WPF.g.resources
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\BodyBasics-WPF\obj\Release\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\BodyBasics-WPF\obj\Release\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\BodyBasics-WPF\obj\Release\BodyBasics-WPF.exe
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\BodyBasics-WPF\obj\Release\BodyBasics-WPF.pdb
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\BodyBasics-WPF\obj\Release\BodyBasics-WPF.csprojResolveAssemblyReference.cache
