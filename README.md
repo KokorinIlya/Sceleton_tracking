@@ -1,5 +1,6 @@
-# Sceleton_tracking
-Sceleton tracking using Microsoft Kinect SDK. 
+## Sceleton tracking
+
+Sceleton tracking using Microsoft Kinect SDK.
 
 The application uses some open source code exaples for Kinect SDK. 
 
